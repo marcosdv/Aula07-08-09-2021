@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-Android-green)
 
-### Aula ministrada no dia 08/09/2021 para o quarto período na UniAlfa de Umuarama (1º Bimestre).
+### Aula ministrada no dia 08/09/2021 para o quarto período do Curso de Sistemas para Internet da UniAlfa de Umuarama (1º Bimestre).
 
 ### Conteúdo
 
